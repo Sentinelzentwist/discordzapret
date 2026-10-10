@@ -1,10 +1,10 @@
 # discordzapret
 
-discordzapret чинит обрыв до голосовых серверов Discord. Распаковали архив, запустили .bat от администратора — звонки снова идут.
+Актуальная версия с поддержкой Discord в текущих условиях. Стабильнее, быстрее, надежнее
 
 discordzapret чинит обрыв до голосовых серверов Discord. Распаковали архив, запустили .bat от администратора — звонки снова идут. обход блокировки Discord, Discord не подключается, Discord connecting исправить, голосовой чат Discord не работает. Windows 10 и 11, без VPN.
 
-Релиз: https://github.com/Sentinelzentwist/discordzapret/releases/latest
-Код: https://github.com/Sentinelzentwist/discordzapret
+Релиз: https://github.com/sentinelzentwist/discordzapret/releases/latest
+Код: https://github.com/sentinelzentwist/discordzapret
 Основа: https://github.com/bol-van/zapret
-Страница: https://github.com/Sentinelzentwist/discordzapret
+Страница: https://github.com/sentinelzentwist/discordzapret
